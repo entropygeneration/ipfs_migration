@@ -1,4 +1,4 @@
-# ipfs_scraper
+# ipfs migration tool
 scripts to build list of pinned items, download them from ipfs and then re-upload to new account
 
 ## Usage:
